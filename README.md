@@ -4,6 +4,7 @@ Exploratory vs Confirmatory data analysis using Python
 Key Takeaways
 Task 1
 Title: Introduction
+
 ● EDA or Exploratory Data Analysis is one of the data analysis methods where we use different statistical summaries and graphical representations to perform initial investigations on the data to discover interesting patterns, spot anomalies, and overall, for a better understanding of our data.
 
 ● EDA is used to see how our data can be useful.
