@@ -3,15 +3,13 @@ Exploratory vs Confirmatory data analysis using Python
 
 Key Takeaways
 
-Task 1
-Title: Introduction
+# Task 1 - Introduction
 
 ● EDA or Exploratory Data Analysis is one of the data analysis methods where we use different statistical summaries and graphical representations to perform initial investigations on the data to discover interesting patterns, spot anomalies, and overall, for a better understanding of our data.
 
 ● EDA is used to see how our data can be useful.
 
-Task 2
-Title: Exploratory Data Analysis - Where to start?
+# Task 2 - Exploratory Data Analysis - Where to start?
 
 ● The first step of Data Exploration is to check what kinds of data types we are working with.
 
@@ -19,8 +17,7 @@ Title: Exploratory Data Analysis - Where to start?
 
 ● Having a list of different information types (Time, Place, Product, Sales, etc.) that are in your dataset always helps.
 
-Task 3
-Title: Data Exploration - Time and Costumer Information Aspect
+# Task 3 Data Exploration - Time and Costumer Information Aspect
 
 ● If you have datetime column in your data frame, make sure it has the datetime64 data type.
 
@@ -32,13 +29,11 @@ Title: Data Exploration - Time and Costumer Information Aspect
 
 ● Line charts are the most common visualization techniques used while working with time series data
 
-Task 4
-Title: Data Exploration - Geo Information
+# Task 4 Data Exploration - Geo Information
 
 ● Choropleth maps are the most common visualization techniques used, for exploring Geo Data.
 
-Task 5
-Title: Exploratory Data Analysis - Hierarchical Information about the products
+# Task 5 Exploratory Data Analysis - Hierarchical Information about the products
 
 ● Sunburst Diagram and Treemap Diagram are two most common data visualization techniques that are used to explore hierarchical data.
 
@@ -46,8 +41,7 @@ Title: Exploratory Data Analysis - Hierarchical Information about the products
 
 ● Time information is also a hierarchical information. You can use Treemap and sunburst diagrams to explore your data based on different hierarchical level (granularity level) such as year, month, day, hour, minute and even second.
 
-Task 6
-Title: Data Exploration - Distributional analysis of sales information columns
+# Task 6 Data Exploration - Distributional analysis of sales information columns
 
 ● You can apply distribution analysis to any numerical value column in your data.
 
@@ -61,8 +55,7 @@ Title: Data Exploration - Distributional analysis of sales information columns
 
 ● Left-skewed histogram is telling you there are outliers in the left side of your data range. You can see the tail on the left side of your histogram
 
-Task 7
-Title: What is Confirmatory Data Analysis (CDA)? 
+# Task 7 What is Confirmatory Data Analysis (CDA)? 
 
 ● Confirmatory Data Analysis is the process of using statistical summary and graphical representations to evaluate the validity of an assumption about the data at hand.
 
